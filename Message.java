@@ -63,7 +63,7 @@ public class Message {
 	/**
 	 * Converts to a string representation for communication
 	 */
-	public String toString() {			/// WHAT IS THE PURPOSE OF toString FUNCTION???
+	public String toString() {		
 		// TODO: YOUR CODE HERE
 		return messageRep;
 		
