@@ -64,7 +64,6 @@ public class Message {
 	 * Converts to a string representation for communication
 	 */
 	public String toString() {		
-		// TODO: YOUR CODE HERE
 		return messageRep;
 		
 	}
